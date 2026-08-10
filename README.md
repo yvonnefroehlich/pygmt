@@ -3,7 +3,7 @@
   <img alt="PyGMT - A Python interface for the Generic Mapping Tools" style="width: 65%" src="https://raw.githubusercontent.com/GenericMappingTools/pygmt/main/doc/_static/pygmtlogo.png">
 </picture>
 
-# A Python interface to the [Generic Mapping Tools](https://www.generic-mapping-tools.org/)
+# Python interface to [GMT](https://www.generic-mapping-tools.org/)
 
 [![GitHub Release](https://img.shields.io/github/v/release/GenericMappingTools/pygmt?color=1f77b4)](https://github.com/GenericMappingTools/pygmt/releases)
 [![Latest version on PyPI](https://img.shields.io/pypi/v/pygmt?color=1f77b4)](https://pypi.org/project/pygmt)
